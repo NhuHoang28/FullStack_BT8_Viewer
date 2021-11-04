@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.viewer {
+    max-width: 700px;
+    max-height: 500px;
+}
+
+.viewer .main-viewer {
+    width: 100%;
+}
+
+.viewer ul {
+    width: 100%;
+    display: flex;
+    background-color: rgb(58, 52, 47);
+}
+
+.viewer ul li {
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+}
